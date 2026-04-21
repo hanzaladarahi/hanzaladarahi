@@ -93,11 +93,14 @@ I work with modern DevOps tools and Linux-based systems to build, deploy, and ma
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanzaladarahi\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanzaladarahi&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=hanzaladarahi&theme=tokyonight" height="170" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzaladarahi\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=hanzaladarahi\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzaladarahi&layout=compact&theme=tokyonight" height="170" />
+</p>
 
 ---
 
@@ -109,25 +112,35 @@ I work with modern DevOps tools and Linux-based systems to build, deploy, and ma
 
 ## 🔢 Commit & Profile Counters
 
-![Profile Views](https://komarev.com/ghpvc/?username=hanzaladarahi\&label=Profile%20views\&color=0e75b6\&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hanzaladarahi&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hanzaladarahi&theme=tokyonight" />
+</p>
 
-![Commits per Month](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hanzaladarahi\&theme=tokyonight)
-
-![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanzaladarahi\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanzaladarahi&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/hanzaladarahi/hanzaladarahi/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/hanzaladarahi/hanzaladarahi/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 🌍 Connect With Me
+## 🌍 Connect with Me
 
-* GitHub: [https://github.com/hanzaladarahi](https://github.com/hanzaladarahi)
-* Email: [hanzala.darahi@gmail.com](mailto:hanzala.darahi@gmail.com)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hanzala.darahi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
