@@ -2,52 +2,96 @@
 
 ## 🚀 About Me
 
-I am a passionate Software Engineer with strong experience in full-stack development and a growing focus on DevOps and AI-driven systems. I enjoy building scalable applications, designing clean architectures, and solving complex problems efficiently.
-
-Currently, I am expanding my expertise in AI (with a focus on cybersecurity) and building advanced systems to showcase real-world engineering skills.
+I am a Software Engineer focused on building scalable systems, clean architectures, and real-world applications. My expertise spans full-stack development, DevOps practices, and AI-driven solutions.
 
 ---
 
-## 🧠 Skills
+## 🧠 Skills & Technologies
 
-### 💻 Programming & Development
+### 💻 Programming Languages
 
-* PHP (Laravel)
-* JavaScript (Node.js, Vue.js, Next.js, Nuxt.js)
-* Python
-* HTML5, CSS3
+![Languages](https://skillicons.dev/icons?i=java,php,js,python,kotlin,cpp)
 
-### ⚙️ Backend & Architecture
+* Java, PHP, JavaScript, Python, Kotlin, C++
 
-* REST API Development
-* Microservices Architecture
-* ORM Design & Abstraction Layers
-* Queue Systems & Job Processing
+---
 
-### 🎨 Frontend
+### ⚙️ Backend Frameworks
 
-* Responsive UI Design
-* Component-Based Architecture
-* Modern JavaScript Frameworks
+![Backend](https://skillicons.dev/icons?i=laravel,django,spring,nodejs)
 
-### 🗄️ Databases
+* Laravel, Django, Spring Boot, Node.js
 
-* MySQL
-* PostgreSQL
-* JSON-based storage design
+---
 
-### 🐳 DevOps & Tools
+### 🎨 Frontend Frameworks
 
-* Docker
-* Kubernetes (Learning / Intermediate)
-* Git & GitHub
-* Linux (Ubuntu Server)
+![Frontend](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs)
 
-### 🤖 AI & Machine Learning
+* React, Vue, Next.js, Nuxt.js
 
-* Python for AI
-* Data Structures & Algorithms
-* Preparing for Machine Learning & Deep Learning
+---
+
+### 📱 Mobile Development
+
+![Mobile](https://skillicons.dev/icons?i=react,flutter)
+
+* React Native, Flutter
+
+---
+
+### 🌐 Markup & Styling
+
+![Markup](https://skillicons.dev/icons?i=html,css)
+
+* HTML, CSS
+
+---
+
+### 🎨 UI & Design Frameworks
+
+![UI](https://skillicons.dev/icons?i=tailwind,bootstrap,materialui)
+
+* Tailwind CSS, Bootstrap, Material UI, Chakra UI
+
+---
+
+### 🤖 AI & Computer Science
+
+![AI](https://skillicons.dev/icons?i=python)
+
+* Machine Learning (ML)
+* Deep Learning (DL)
+* Data Structures
+* Design Patterns
+* System Design
+
+---
+
+---
+
+## 🛠️ DevOps & System Administration (Linux)
+
+![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,nginx,git)
+
+I work with modern DevOps tools and Linux-based systems to build, deploy, and manage scalable applications.
+
+* Docker & Containerization
+* Kubernetes (Orchestration - Learning/Intermediate)
+* Linux System Administration (Ubuntu Server)
+* Nginx & Apache Server Management
+* CI/CD Concepts & Automation
+* Git & Version Control
+
+---
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-username\&theme=tokyonight)
 
 ---
 
@@ -55,49 +99,28 @@ Currently, I am expanding my expertise in AI (with a focus on cybersecurity) and
 
 ### 🔹 AI-Based Code Reviewer
 
-A system that analyzes Python code, detects errors, and suggests improvements without relying on external APIs.
+* Built from scratch without external APIs
+* Intelligent Python code analysis
+* Scalable architecture design
 
-* Built from scratch
-* Focus on static analysis and intelligent suggestions
-* Long-term scalable architecture
+### 🔹 SaaS Microservices Platform
 
-### 🔹 SaaS Microservices Platform (In Progress)
-
-A scalable SaaS system combining multiple technologies:
-
-* Laravel (Backend Services)
-* Node.js (Real-time & APIs)
-* Django (AI modules)
+* Laravel + Node.js + Django
+* Distributed services architecture
 
 ### 🔹 Online Agreement Signing System
 
-* React-based frontend
+* React frontend
 * Dynamic PDF & email generation
-* Complex form handling with JSON storage
-
----
-
-## 📚 Currently Learning
-
-* Advanced Data Structures
-* Design Patterns
-* Machine Learning
-* Kubernetes & Cloud-Native Architecture
+* Complex form system with JSON storage
 
 ---
 
 ## 🎯 Goals
 
-* Become an expert in AI + Cybersecurity
-* Build production-level SaaS platforms
-* Contribute to open-source projects
-* Work in an international tech environment
-
----
-
-## 🌍 Availability
-
-Open to collaboration, freelance projects, and full-time opportunities.
+* AI + Cybersecurity specialization
+* Build production-grade SaaS systems
+* Contribute to open source
 
 ---
 
@@ -110,4 +133,4 @@ Open to collaboration, freelance projects, and full-time opportunities.
 
 ## ⚡ Fun Fact
 
-I don’t just write code — I engineer systems.
+I build systems, not just apps.
