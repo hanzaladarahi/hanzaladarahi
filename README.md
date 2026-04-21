@@ -134,7 +134,7 @@ I work with modern DevOps tools and Linux-based systems to build, deploy, and ma
 ## 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/hanzala-darahi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hanzala.darahi@gmail.com">
@@ -142,15 +142,7 @@ I work with modern DevOps tools and Linux-based systems to build, deploy, and ma
   </a>
 </p>
 
----
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanzaladarahi\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzaladarahi\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=hanzaladarahi\&theme=tokyonight)
-
----
 
 ## 🏗️ Projects
 
