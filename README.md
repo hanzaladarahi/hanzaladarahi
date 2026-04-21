@@ -119,9 +119,8 @@ I am a Software Engineer focused on building scalable systems, clean architectur
 ---
 
 ## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://github.com/hanzaladarahi/hanzaladarahi/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/hanzaladarahi/hanzaladarahi/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
