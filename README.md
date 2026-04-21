@@ -87,7 +87,7 @@ I work with modern DevOps tools and Linux-based systems to build, deploy, and ma
 
 ## 🏆 GitHub Achievements & Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username\&theme=tokyonight\&no-frame=true\&row=1\&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=hanzaladarahi\&theme=tokyonight\&no-frame=true\&row=1\&column=7)
 
 ---
 
@@ -106,19 +106,19 @@ I work with modern DevOps tools and Linux-based systems to build, deploy, and ma
 
 ## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username\&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanzaladarahi\&theme=tokyo-night)
 
 ---
 
 ## 🔢 Commit & Profile Counters
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=your-username&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=hanzaladarahi&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hanzaladarahi&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanzaladarahi&theme=tokyonight" />
 </p>
 
 ---
@@ -126,7 +126,7 @@ I work with modern DevOps tools and Linux-based systems to build, deploy, and ma
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/hanzaladarahi/hanzaladarahi/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -134,23 +134,15 @@ I work with modern DevOps tools and Linux-based systems to build, deploy, and ma
 ## 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/hanzala-darahi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:hanzala.darahi@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username\&theme=tokyonight)
-
----
 
 ## 🏗️ Projects
 
@@ -183,8 +175,8 @@ I work with modern DevOps tools and Linux-based systems to build, deploy, and ma
 
 ## 📫 Contact
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: [https://github.com/hanzaladarahi](https://github.com/hanzaladarahi)
+* Email: [hanzala.darahi@gmail.com](mailto:hanzala.darahi@gmail.com)
 
 ---
 
