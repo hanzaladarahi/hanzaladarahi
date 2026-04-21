@@ -85,7 +85,51 @@ I work with modern DevOps tools and Linux-based systems to build, deploy, and ma
 
 ---
 
+## 🏆 GitHub Achievements & Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=hanzaladarahi\&theme=tokyonight\&no-frame=true\&row=1\&column=7)
+
+---
+
 ## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanzaladarahi\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzaladarahi\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=hanzaladarahi\&theme=tokyonight)
+
+---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanzaladarahi\&theme=tokyo-night)
+
+---
+
+## 🔢 Commit & Profile Counters
+
+![Profile Views](https://komarev.com/ghpvc/?username=hanzaladarahi\&label=Profile%20views\&color=0e75b6\&style=flat)
+
+![Commits per Month](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hanzaladarahi\&theme=tokyonight)
+
+![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanzaladarahi\&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/hanzaladarahi/hanzaladarahi/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌍 Connect With Me
+
+* GitHub: [https://github.com/hanzaladarahi](https://github.com/hanzaladarahi)
+* Email: [hanzala.darahi@gmail.com](mailto:hanzala.darahi@gmail.com)
+* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanzaladarahi\&show_icons=true\&theme=tokyonight)
 
@@ -127,7 +171,7 @@ I work with modern DevOps tools and Linux-based systems to build, deploy, and ma
 ## 📫 Contact
 
 * GitHub: [https://github.com/hanzaladarahi](https://github.com/hanzaladarahi)
-* Email: [hanzala.darahi@gmail.com](hanzala.darahi@gmail.com)
+* Email: [hanzala.darahi@gmail.com](mailto:hanzala.darahi@gmail.com)
 
 ---
 
