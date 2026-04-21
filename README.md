@@ -111,12 +111,9 @@ I am a Software Engineer focused on building scalable systems, clean architectur
 ## 🔢 Commit & Profile Counters
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hanzaladarahi&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hanzaladarahi&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanzaladarahi&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=hanzaladarahi&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/commit-activity/m/hanzaladarahi/hanzaladarahi?style=flat&color=blue&label=Monthly%20Commits" />
+  <img src="https://img.shields.io/github/last-commit/hanzaladarahi/hanzaladarahi?style=flat&color=brightgreen&label=Last%20Commit" />
 </p>
 
 ---
