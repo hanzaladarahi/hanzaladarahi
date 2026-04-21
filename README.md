@@ -87,11 +87,11 @@ I work with modern DevOps tools and Linux-based systems to build, deploy, and ma
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanzaladarahi\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzaladarahi\&layout=compact\&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=hanzaladarahi\&theme=tokyonight)
 
 ---
 
@@ -126,8 +126,8 @@ I work with modern DevOps tools and Linux-based systems to build, deploy, and ma
 
 ## 📫 Contact
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: [https://github.com/hanzaladarahi](https://github.com/hanzaladarahi)
+* Email: [hanzala.darahi@gmail.com](hanzala.darahi@gmail.com)
 
 ---
 
